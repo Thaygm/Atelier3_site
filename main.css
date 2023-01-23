@@ -27,6 +27,10 @@ body {
     font-size: 45px;
 }
 
+#sobre-o-atelier .carousel-inner {
+    max-width: 100%;
+}
+
 #sobre-o-atelier,
 #portifolio {
     background-color: #DEEDF0;
