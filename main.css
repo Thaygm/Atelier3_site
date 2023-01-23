@@ -14,7 +14,7 @@ body {
 #cabecalho .nav .nav-link,
 .navbar-brand,
 .navbar-brand:hover,
-.nav-cardapio .nav-link.active:hover {
+.nav-portifolio .nav-link.active:hover {
     color: black;
 }
 
@@ -27,8 +27,12 @@ body {
     font-size: 45px;
 }
 
-#sobre-o-restaurante,
-#cardapio {
+#sobre-o-atelier .carousel-inner {
+    max-width: 100%;
+}
+
+#sobre-o-atelier,
+#portifolio {
     background-color: #DEEDF0;
 }
 
@@ -36,13 +40,13 @@ body {
     color: #93C6E7;
 }
 
-.nav-cardapio .nav-link.active,
+.nav-portifolio .nav-link.active,
 #contato button {
     background-color: #FEDEFF;
     color: black;
 }
 
-.nav-cardapio .nav-link:hover {
+.nav-portifolio .nav-link:hover {
     color: #93C6E7;
 }
 
